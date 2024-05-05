@@ -1,0 +1,13 @@
+"lang","family","correlation","p_value","adjusted_p_value"
+"Arabic","Afro-Asiatic",-1.9052e-01,3.1591e-09,3.1591e-09
+"Catalan","Indo-European",-3.0559e-01,1.6106e-10,1.6106e-10
+"Chinese","Sino-Tibetan",-1.6857e-01,3.8764e-06,3.8764e-06
+"English","Indo-European",-2.2454e-01,2.2077e-10,2.2077e-10
+"Esperanto","Indo-European",-2.0833e-01,6.1616e-11,6.1616e-11
+"Finnish","Uralic",-1.4771e-01,1.1286e-07,1.1286e-07
+"Japanese","Japonic",-1.0306e-01,8.4999e-03,8.4999e-03
+"Korean","Koreanic",-1.9503e-01,3.3101e-08,3.3101e-08
+"Polish","Indo-European",-1.9544e-01,2.0146e-10,2.0146e-10
+"Russian","Indo-European",-2.3754e-01,5.3696e-15,5.3696e-15
+"Swahili","Niger-Congo",-2.6116e-01,5.5488e-15,5.5488e-15
+"Turkish","Turkic",-2.6799e-01,1.8016e-21,1.8016e-21
